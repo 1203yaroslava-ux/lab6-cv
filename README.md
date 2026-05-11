@@ -39,7 +39,7 @@ npm run preview  # посмотреть прод-сборку локально
 
 ## Что делать
 
-1. Форкни template.
+1. Форкни template или используй "Use this template".
 2. Сделай репо публичным.
 3. **Settings → Pages → Source: GitHub Actions** (важно, без этого деплой не пройдёт).
 4. Заведи ветку `feature/my-cv`, перепиши `index.html` / `style.css` под свой CV.
